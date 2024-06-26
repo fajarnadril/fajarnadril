@@ -11,7 +11,7 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a href="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif">Project Stir </a></th>
+      <th width="50%" align="center"><a href="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif">Project Stir </a></th> #title
       <th width="50%" align="center"><a href="">Pertamina Ship Virtual Reality</a></th>
     </tr>
   </thead>
