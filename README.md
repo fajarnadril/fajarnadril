@@ -4,7 +4,6 @@ Muhamad Fajar, also known as fajarnadril, is an educator and professional in the
 
 Fajar's expertise as a generalist is complemented by his passion for research, visual design, and XR development. His expertise shines through his contributions to various projects, including Virtual Reality, Augmented Reality, Mixed Reality, and Game Development, both in educational institutions and the corporate sector. He excels in XR development and visual design, creating engaging applications for training, safety, education, and marketing purposes.
 
-
 <br>
 
 <table width="100%">
@@ -28,12 +27,12 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
       <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link-->
-      <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link-->
+      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->
+      <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link2-->
     </tr>
     <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer ProjectStir</a></td> <!--link-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer Hopeless </a></td> <!--link-->
+      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer</a></td> <!--link1-->
+      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer</a></td> <!--link2-->
     </tr>
   </tbody>
 </table>
@@ -45,8 +44,8 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a href="">Shevia Fire</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a href="">Shevia Augmented Reality</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a href="">Shevia Fire VR</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a href="">Shevia AR</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
@@ -63,12 +62,12 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
       <td valign="text-top">Shevia Augmented Reality is a Safety Induction application using Augmented Reality, featuring a 3D viewer with visual and audio explanations. As a Unity Programmer, I developed the main mechanics of the application in under five days. This application was used within the Pertamina Group during a safety event.</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link-->
-      <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link-->
+      <td align="center"><a href="https://www.shevia.id/Product/SheviaFire">Read More</a></td> <!--link 3-->
+      <td align="center"><a href="https://www.shevia.id/Product/SheviaAR">Read More</a></td> <!--link 4-->
     </tr>
     <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Trailer ProjectStir</a></td> <!--link-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Trailer - Hopeless </a></td> <!--link-->
+      <td align="center"><a href="https://youtu.be/U301oBPnyCg">Trailer</a></td> <!--link 3-->
+      <td align="center"><a href="https://youtu.be/6mlfc1Shwas">Trailer</a></td> <!--link 4-->
     </tr>
   </tbody>
 </table>
