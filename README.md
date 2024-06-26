@@ -1,6 +1,8 @@
-# Hi, I'm Kelvin 👋
+# Hi, I'm Fajar 👋
 ---
-Nice to meet you! I am an active student of Computer Science specializing in Game Application and Technology 🎮
+Muhamad Fajar, also known as fajarnadril, is an educator and professional in the field of Extended Reality (XR) development, visual design, and research. With a background in Game Application Technology, he earned his Bachelor's degree from Binus University and has completed a scholarship program for a Master's degree in Computer Science at the same institution.
+
+Fajar's expertise as a generalist is complemented by his passion for research, visual design, and XR development. His expertise shines through his contributions to various projects, including Virtual Reality, Augmented Reality, Mixed Reality, and Game Development, both in educational institutions and the corporate sector. He excels in XR development and visual design, creating engaging applications for training, safety, education, and marketing purposes.
 
 
 
