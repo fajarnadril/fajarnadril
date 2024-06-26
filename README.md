@@ -11,17 +11,17 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a href="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif">Project Stir </a></th> <!--tittle-->
-      <th width="50%" align="center"><a href="">Hopeless</a></th> <!--tittle-->
+      <th width="50%" align="center"><a href="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif">Project Stir222 </a></th> <!--tittle-->
+      <th width="50%" align="center"><a href="">Hopeless111</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="ProjectStir" style="width:100%;height:auto;">
+        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="ProjectStir333" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="Pertamina Ship Virtual Reality" style="width:100%;height:auto;">
+        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="Pertamina Ship Virtual Reality444" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
