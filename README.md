@@ -54,7 +54,7 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
         <img src="https://www.shevia.id/assets/img/product/shevia-fire/3.png" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://www.shevia.id/assets/img/product/shevia-ar-model.png" alt="2" style="width:100%;height:auto;">
+        <img src="https://www.shevia.id/assets/img/product/shevia-ar/1.png" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
