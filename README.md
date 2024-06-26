@@ -5,7 +5,7 @@ Muhamad Fajar, also known as fajarnadril, is an educator and professional in the
 
 Fajar's expertise as a generalist is complemented by his passion for research, visual design, and XR development. His expertise shines through his contributions to various projects, including Virtual Reality, Augmented Reality, Mixed Reality, and Game Development, both in educational institutions and the corporate sector. He excels in XR development and visual design, creating engaging applications for training, safety, education, and marketing purposes.
 
-**📩Email ** 
+**📩Email** 
 hi@fajar.io
 
 <br>
