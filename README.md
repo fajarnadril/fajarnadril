@@ -33,9 +33,8 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
       <td align="center"><a href="https://kxlvxn.itch.io/soccerpong">Itch.io Page</a></td>
     </tr>
     <tr>
-      <td></td>
+       <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">GitHub Page</a></td>
       <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">GitHub Page</a></td>
-      <td align="center"><a href="https://kxlvxn.itch.io/soccerpong">Itch.io Page</a></td>
     </tr>
   </tbody>
 </table>
