@@ -1,4 +1,4 @@
-# Hi, I'm Fajar 👋
+![image](https://github.com/fajarnadril/fajarnadril/assets/36891062/5e19ae81-a0f3-4367-bce0-e9a9f01e33ba)# Hi, I'm Fajar 👋
 ---
 Muhamad Fajar, also known as fajarnadril, is an educator and professional in the field of Extended Reality (XR) development, visual design, and research. With a background in Game Application Technology, he earned his Bachelor's degree from Binus University and has completed a scholarship program for a Master's degree in Computer Science at the same institution.
 
@@ -6,13 +6,13 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
 
 
 
-# 
-# 
+
+
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a href="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif">Project Stir </a></th> #title
-      <th width="50%" align="center"><a href="">Hopeless</a></th> #tittle
+      <th width="50%" align="center"><a href="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif">Project Stir </a></th> <!--tittle-->
+      <th width="50%" align="center"><a href="">Hopeless</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -25,16 +25,16 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
       </td>
     </tr>
     <tr>
-      <td valign="text-top">ProjectStir [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.</td> #deskription
-      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> #description
+      <td valign="text-top">ProjectStir [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.</td> <!--desc-->
+      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">GitHub Page</a></td>
-      <td align="center"><a href="https://kxlvxn.itch.io/soccerpong">Itch.io Page</a></td>
+      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link-->
+      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Youtube</a></td> <!--link-->
     </tr>
     <tr>
-       <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">GitHub Page</a></td>
-      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">GitHub Page</a></td>
+       <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link-->
+      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Youtube</a></td> <!--link-->
     </tr>
   </tbody>
 </table>
@@ -42,29 +42,34 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
 
 <br>
 
+
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a href="">Hopeless</a></th>
-      <th width="50%" align="center"><a href="">The Battle Of Lengkong</a></th>
+      <th width="50%" align="center"><a href="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif">Project Stir </a></th> <!--tittle-->
+      <th width="50%" align="center"><a href="">Hopeless</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif"/></td>
-      <td align="center"><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/tbol.gif"/></td>
+      <td align="center">
+        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="ProjectStir" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="Pertamina Ship Virtual Reality" style="width:100%;height:auto;">
+      </td>
     </tr>
     <tr>
-      <td valign="text-top">"Hopeless" is a dark and ominous game that immerses players in a series of deadly challenges. Throughout their journey, players will encounter lethal traps that require wit and agility to overcome. Only by successfully navigating each challenge can players advance to the next level. The dark and mysterious atmosphere creates an intense and captivating gaming experience, where only the most skilled and daring can emerge victorious in this game.</td>
-      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day<br></td>
+      <td valign="text-top">ProjectStir [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.</td> <!--desc-->
+      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/KXLVXN7/Hopeless-KXLVXN">GitHub Page</td>
-      <td align="center"><a href="https://github.com/KXLVXN7/TheBattleOf_Lengkong">GitHub Page</td>
+      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link-->
+      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Youtube</a></td> <!--link-->
     </tr>
     <tr>
-      <td align="center"><a href="https://kxlvxn.itch.io/hopeless">Itch Page</td>
-      <td align="center"><a href="https://kxlvxn.itch.io/the-battle-of-lengkong">Itch Page</td>
+       <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link-->
+      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Youtube</a></td> <!--link-->
     </tr>
   </tbody>
 </table>
