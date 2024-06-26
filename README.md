@@ -29,12 +29,12 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
       <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
     </tr>
     <tr>
-      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link-->
-      <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link-->
+      <td align="center"><a href="https://github.com/fajarnadril/Project-Stir alt="ps"">Read More</a></td> <!--link-->
+      <td align="center"><a href="https://u2studio.itch.io/hopeless alt="hope"">Read More</a></td> <!--link-->
     </tr>
     <tr>
       <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA" alt="ps">Youtube</a></td> <!--link-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0" alt="hope" >Youtube</a></td> <!--link-->
+      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0" alt="hope">Youtube</a></td> <!--link-->
     </tr>
   </tbody>
 </table>
