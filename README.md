@@ -9,8 +9,8 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a href="">Project Stir </a></th> <!--tittle-->
-      <th width="50%" align="center"><a href="">Hopeless</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Project Stir </a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Hopeless</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -44,8 +44,8 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a href="">Shevia Fire VR</a></th> <!--tittle 3-->
-      <th width="50%" align="center"><a href="">Shevia AR</a></th> <!--tittle 4-->
+      <th width="50%" align="center"><a>Shevia Fire VR</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Shevia AR</a></th> <!--tittle 4-->
     </tr>
   </thead>
   <tbody>
