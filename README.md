@@ -1,4 +1,4 @@
-![image](https://github.com/fajarnadril/fajarnadril/assets/36891062/5e19ae81-a0f3-4367-bce0-e9a9f01e33ba)# Hi, I'm Fajar 👋
+Hi, I'm Fajar 👋
 ---
 Muhamad Fajar, also known as fajarnadril, is an educator and professional in the field of Extended Reality (XR) development, visual design, and research. With a background in Game Application Technology, he earned his Bachelor's degree from Binus University and has completed a scholarship program for a Master's degree in Computer Science at the same institution.
 
@@ -11,17 +11,17 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a href="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif">Project Stir222 </a></th> <!--tittle-->
-      <th width="50%" align="center"><a href="">Hopeless111</a></th> <!--tittle-->
+      <th width="50%" align="center"><a href="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif">Project Stir </a></th> <!--tittle-->
+      <th width="50%" align="center"><a href="">Hopeless</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="ProjectStir333" style="width:100%;height:auto;">
+        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="Pertamina Ship Virtual Reality444" style="width:100%;height:auto;">
+        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
