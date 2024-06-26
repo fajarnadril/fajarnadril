@@ -18,10 +18,10 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="" style="width:100%;height:auto;">
+        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="1" style="width:100%;height:auto;">
       </td>
       <td align="center">
-        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="" style="width:100%;height:auto;">
+        <img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/hpless_1.gif" alt="2" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
@@ -33,8 +33,8 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
       <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link-->
     </tr>
     <tr>
-      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Youtube</a></td> <!--link-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Youtube</a></td> <!--link-->
+      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA" alt="ps">Youtube</a></td> <!--link-->
+      <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0" alt="hope" >Youtube</a></td> <!--link-->
     </tr>
   </tbody>
 </table>
