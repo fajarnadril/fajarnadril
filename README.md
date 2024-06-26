@@ -12,7 +12,7 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
   <thead>
     <tr>
       <th width="50%" align="center"><a href="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif">Project Stir </a></th> #title
-      <th width="50%" align="center"><a href="">Pertamina Ship Virtual Reality</a></th>
+      <th width="50%" align="center"><a href="">Hopeless</a></th>
     </tr>
   </thead>
   <tbody>
@@ -56,7 +56,7 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
     </tr>
     <tr>
       <td valign="text-top">"Hopeless" is a dark and ominous game that immerses players in a series of deadly challenges. Throughout their journey, players will encounter lethal traps that require wit and agility to overcome. Only by successfully navigating each challenge can players advance to the next level. The dark and mysterious atmosphere creates an intense and captivating gaming experience, where only the most skilled and daring can emerge victorious in this game.</td>
-      <td valign="text-top">This game is a survival shooter platformer with the theme of Indonesian heroism, featuring Daan Mogot. The story revolves around Daan Mogot, who must survive attacks from the Japanese army. Players take on the role of Daan Mogot and are challenged to withstand the assault as best as possible. Set against a historical backdrop, the narrative follows Daan Mogot and his troops, who must sacrifice themselves after engaging in a battle against the Japanese forces. With a historical theme, the game aims to provide players with education and new knowledge, offering an entertaining and tense gaming experience.<br></td>
+      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day<br></td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/KXLVXN7/Hopeless-KXLVXN">GitHub Page</td>
