@@ -10,13 +10,19 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a href="https://github.com/fajarnadril/Project-Stir">Project Stir </a></th>
-      <th width="50%" align="center"><a href="">Soccer Pong </a></th>
+      <th width="50%" align="center"><a href="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif">Project Stir </a></th>
+      <th width="50%" align="center"><a href="">Pertamina Ship Virtual Reality</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://www.shevia.id/assets/img/product/shevia-fire/3.png"/></td>
+      <td>
+        <div align="center">
+          <a href="https://www.youtube.com/watch?v=MXbSJmlWlX0?si=h8U92_jsbKvBW8Md">
+            <img src="https://img.youtube.com/vi/MXbSJmlWlX0/0.jpg" alt="Project Stir Video">
+          </a>
+        </div>
+      </td>
       <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/gif_1.gif"/></td>
     </tr>
     <tr>
