@@ -16,7 +16,6 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://img.itch.zone/aW1hZ2UvMjYxMzc4LzEyNzEyNTguanBn/original/BKa76R.jpg"/></td>
       <td><img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/gif_1.gif"/></td>
     </tr>
     <tr>
