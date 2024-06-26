@@ -30,11 +30,11 @@ Fajar's expertise as a generalist is complemented by his passion for research, v
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link-->
-      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Youtube</a></td> <!--link-->
+      <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link-->
     </tr>
     <tr>
-       <td align="center"><a href="https://u2studio.itch.io/hopeless">Read More</a></td> <!--link-->
       <td align="center"><a href="https://www.youtube.com/watch?v=MXbSJmlWlX0">Youtube</a></td> <!--link-->
+      <td align="center"><a href="https://www.youtube.com/watch?v=UWn3G_PZ_fA">Youtube</a></td> <!--link-->
     </tr>
   </tbody>
 </table>
